@@ -6,8 +6,6 @@
     list-style-type: none !important;
     text-decoration: none !important;
     box-sizing: border-box;
-
-
 }
 
 .shadow-1 {
@@ -33,7 +31,6 @@
     font-style: normal;
     font-weight: 700;
     line-height: 135%;
-    /* 48.6px */
 }
 
 .font-2 {
@@ -61,7 +58,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
     opacity: 0.6;
 
 }
@@ -73,7 +69,6 @@
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    /* 72px */
 }
 
 .font-6 {
@@ -83,7 +78,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
 }
 
 .font-7 {
@@ -94,7 +88,6 @@
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    /* 24px */
 }
 
 .font-8 {
@@ -147,7 +140,6 @@
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    /* 72px */
 }
 
 .font-13 {
@@ -157,7 +149,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
     opacity: 0.6;
 }
 
@@ -177,7 +168,6 @@
     border-radius: 20px;
     cursor: pointer;
     background-color: #EAEDFF;
-
 }
 
 .line-1 {
@@ -248,7 +238,6 @@
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    /* 36px */
 }
 
 .card:hover {
@@ -270,7 +259,6 @@ svg {
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
 }
 
 .font-16 {
@@ -280,7 +268,6 @@ svg {
     font-style: normal;
     font-weight: 600;
     line-height: 150%;
-    /* 36px */
 }
 
 .font-17 {
@@ -290,7 +277,6 @@ svg {
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
 }
 
 .font18 {
@@ -300,7 +286,6 @@ svg {
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
 }
 
 .font-19 {
@@ -319,7 +304,6 @@ svg {
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 24px */
 }
 
 .bor {
@@ -343,7 +327,6 @@ svg {
     font-style: normal;
     font-weight: 700;
     line-height: 150%;
-    /* 18px */
     width: 43px;
 }
 
